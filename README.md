@@ -66,7 +66,7 @@ Feel free to connect or reach out:
 
 - **👤 Name**: Deepak Dhanoliya  
 - **📧 Email**: ddhakad910@gmail.com 
-- **🔗 LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepakdhanoliya/)  
+- **🔗 LinkedIn**: **[Click here to view the Linkedin Profile](https://www.linkedin.com/in/deepakdhanoliya/)**
 
 ---
 
