@@ -13,7 +13,7 @@ Data cleaning and transformation were performed in **SQL**, and the cleaned data
 
 ## 🚀 Live Dashboard
 
-👉 **[Click here to view the live Power BI dashboard][https://your-powerbi-dashboard-link](https://app.powerbi.com/view?r=eyJrIjoiNTI1Yjk5YWYtMDY1Yy00ZDFlLWJjNWMtNzE1OWRlZDQ1NTY3IiwidCI6IjRjZmE2ZjViLTU5ZTYtNGJhOS04YmRkLTVhZjQ5ZTQ1OTI1NiJ9)**
+👉 **[Click here to view the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTI1Yjk5YWYtMDY1Yy00ZDFlLWJjNWMtNzE1OWRlZDQ1NTY3IiwidCI6IjRjZmE2ZjViLTU5ZTYtNGJhOS04YmRkLTVhZjQ5ZTQ1OTI1NiJ9)**
 
 > 💡 *Note: The dashboard is hosted on Power BI Service and is fully interactive.*
 
